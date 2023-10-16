@@ -44,9 +44,15 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 # Installation
-* Node.js.
+
 * VS Code.
 * Heroku.
+  + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  + [Node.js](https://nodejs.org/en/)
+  + [Express](https://www.npmjs.com/package/express)
+  + [Concurrently](https://www.npmjs.com/package/concurrently)
+  + [idb](https://www.npmjs.com/package/idb)
+  + [Webpack](https://webpack.js.org/)
 
 # Usage
 * `git clone repository`
